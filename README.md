@@ -58,7 +58,25 @@
   <script src="../package/js/swiper.min.js"></script>
 
 
+<div class="swiper-container1">
+    <div class="swiper-wrapper">
+      <div class="swiper-slide" style="background-image:url(./images/nature-1.jpg)"></div>
+      <div class="swiper-slide" style="background-image:url(./images/nature-2.jpg)"></div>
+      <div class="swiper-slide" style="background-image:url(./images/nature-3.jpg)"></div>
+      <div class="swiper-slide" style="background-image:url(./images/nature-4.jpg)"></div>
+      <div class="swiper-slide" style="background-image:url(./images/nature-5.jpg)"></div>
+      <div class="swiper-slide" style="background-image:url(./images/nature-6.jpg)"></div>
+      <div class="swiper-slide" style="background-image:url(./images/nature-7.jpg)"></div>
+      <div class="swiper-slide" style="background-image:url(./images/nature-8.jpg)"></div>
+      <div class="swiper-slide" style="background-image:url(./images/nature-9.jpg)"></div>
+      <div class="swiper-slide" style="background-image:url(./images/nature-1.jpg0)"></div>
+    </div>
+    <!-- Add Pagination -->
+    <div class="swiper-pagination"></div>
+  </div>
 
+  <!-- Swiper JS -->
+  <script src="../package/js/swiper.min.js"></script>
 
 
   <!-- Initialize Swiper -->
@@ -86,6 +104,8 @@
      autoplay: {
      delay: 5000,
      },
+     pagination: {
+        el: '.swiper-pagination',
      });
   </script>
   
