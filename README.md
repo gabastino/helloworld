@@ -5,23 +5,23 @@
   <title>Welcome Spider</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
   
-  <link href="style.css" rel="stylesheet" type="text/css">
+  <link href="https://gabastino.github.io/helloworld/style.css" rel="stylesheet" type="text/css">
   
-  <!-- Link Swiper's CSS 
+  Link Swiper's CSS 
   <link rel="stylesheet" href="https://unpkg.com/swiper/css/swiper.css">
-  <link rel="stylesheet" href="https://unpkg.com/swiper/css/swiper.min.css"> -->
+  <link rel="stylesheet" href="https://unpkg.com/swiper/css/swiper.min.css">
 
   <script src="https://unpkg.com/swiper/js/swiper.js"></script>
   <script src="https://unpkg.com/swiper/js/swiper.min.js"></script>
   
-  <script src="spiders.js"></script>
-  <script src="jquery.min.js"></script>
-  <script type="text/javascript" src="script.js"></script>
+  <script src="https://gabastino.github.io/helloworld/spiders.js"></script>
+  <script src="https://gabastino.github.io/helloworld/jquery.min.js"></script>
+  <script type="text/javascript" src="https://gabastino.github.io/helloworld/script.js"></script>
 
   <!-- Demo styles -->
   <style>
     body {
-      background: #000000;
+      background: #FFFFFF;
       font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
       font-size: 14px;
       color:#000;
