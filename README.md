@@ -74,18 +74,20 @@
         depth: 100,
         modifier: 1,
         slideShadows : true,
-  
-     var mySwiper = new Swiper('.swiper-container', {
-     autoplay: {
-     delay: 5000,
-     },
-     });
-
       },
       pagination: {
         el: '.swiper-pagination',
       },
     });
   </script>
+  
+   <script>  
+     var mySwiper = new Swiper('.swiper-container', {
+     autoplay: {
+     delay: 5000,
+     },
+     });
+  </script>
+  
 </body>
 </html>
