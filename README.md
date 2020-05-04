@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <title>Welcome Spider</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
-
+  <link href="/gabastino/helloworld/blob/master/style.css" rel="stylesheet" type="text/css">
   <!-- Link Swiper's CSS -->
   <link rel="stylesheet" href="https://unpkg.com/swiper/css/swiper.css">
   <link rel="stylesheet" href="https://unpkg.com/swiper/css/swiper.min.css">
@@ -14,8 +14,8 @@
   
   <script src="/gabastino/helloworld/blob/master/spiders.js"></script>
   <script src="/gabastino/helloworld/blob/master/jquery.min.js"></script>
-  <link href="/gabastino/helloworld/blob/master/style.css" rel="stylesheet" type="text/css">
-
+  
+  <script type="text/javascript" src="/gabastino/helloworld/blob/master/script.js"></script>
 
   <!-- Demo styles -->
   <style>
@@ -43,7 +43,7 @@
   </style>
 </head>
 <body>
- <canvas id="spiders" class="hidden-xs" width="429" height="977"></canvas>
+
  <!-- Swiper -->
   <div class="swiper-container">
     <div class="swiper-wrapper">
