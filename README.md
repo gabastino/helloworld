@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="utf-8">
@@ -58,6 +57,10 @@
   <!-- Swiper JS -->
   <script src="../package/js/swiper.min.js"></script>
 
+
+
+
+
   <!-- Initialize Swiper -->
   <script>
     var swiper = new Swiper('.swiper-container', {
@@ -71,6 +74,13 @@
         depth: 100,
         modifier: 1,
         slideShadows : true,
+  
+     var mySwiper = new Swiper('.swiper-container', {
+     autoplay: {
+     delay: 5000,
+     },
+     });
+
       },
       pagination: {
         el: '.swiper-pagination',
