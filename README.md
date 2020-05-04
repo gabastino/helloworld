@@ -2,7 +2,7 @@
   
 <head>
   <meta charset="utf-8">
-  <title>Swiper demo</title>
+  <title>Welcome Spider</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
 
   <!-- Link Swiper's CSS -->
@@ -11,11 +11,16 @@
 
   <script src="https://unpkg.com/swiper/js/swiper.js"></script>
   <script src="https://unpkg.com/swiper/js/swiper.min.js"></script>
+  
+  <script src="/gabastino/helloworld/blob/master/spiders.js"></script>
+  <script src="/gabastino/helloworld/blob/master/jquery.min.js"></script>
+  <link href="/gabastino/helloworld/blob/master/style.css" rel="stylesheet" type="text/css">
+
 
   <!-- Demo styles -->
   <style>
     body {
-      background: #fff;
+      background: #000000;
       font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
       font-size: 14px;
       color:#000;
