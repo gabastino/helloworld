@@ -20,6 +20,7 @@
       color:#000;
       margin: 0;
       padding: 0;
+     <canvas id="canvas">No HTML5 canvas support.</canvas>
     }
     .swiper-container {
       width: 100%;
